@@ -59,10 +59,5 @@ Deze rekentool is uitsluitend bedoeld ter indicatie en inspiratie. Aan de uitkom
 
 📚 Bronnen
 
-De berekeningen zijn gebaseerd op data van:
+📖 **Verdieping:** [Bekijk de volledige technische verantwoording en rekenmethodiek](VERANTWOORDING.md).
 
-DVvE - Financiele Middelen
-
-NPLW - Speciale Doelgroepen
-
-Milieu Centraal
